@@ -1,0 +1,9 @@
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10.
+Привет Вася!!
+Hello World!!
+100 200 500 1000
+Ich heisse Sergej!
+Ya ustal ot etogo koda!!!
+Kak tebya zovyt?
+23, 48, 54, 18, 26, 14, 38
+Ich kann nicht mehr schreiben
